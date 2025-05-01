@@ -86,6 +86,18 @@
   <ItemGroup>
     <None Include="Resources\rm218-bb-07.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EXIT_BUTTON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rm218-bb-071.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled design %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled_design__3_-removebg-preview.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

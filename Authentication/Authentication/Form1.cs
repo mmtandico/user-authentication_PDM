@@ -16,5 +16,10 @@ namespace Authentication
         {
             InitializeComponent();
         }
+
+        private void LblExit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
